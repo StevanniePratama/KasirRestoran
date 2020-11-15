@@ -1,0 +1,15 @@
+- MENU PAKETAN - 
+________________________________________
+
+[1] Paket 1		Rp20.000
+    Ayam + Nasi + Es Teh 
+[2] Paket 2		Rp32.600
+    2 Ayam + Nasi + Es Teh 
+[3] Paket 3		Rp38.500
+    Burger + Kentang Goreng + Cola
+[4] Paket 4		Rp99.900
+    Bucket Ayam (9 Ayam) 
+
+________________________________________
+
+<<< Kembali
