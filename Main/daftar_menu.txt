@@ -1,0 +1,15 @@
+::: DAFTAR MENU :::
+____________________
+
+[1] Menu Paketan
+[2] Menu Terbaru
+[3] Menu Burger
+[4] Menu Ayam
+[5] Menu Nasi
+[6] Menu Mie
+[7] Menu Snack
+[8] Minuman
+[9] SadMeal
+____________________
+
+<<< Kembali

@@ -1,0 +1,12 @@
+~ MEKDI Fast Food ~
+_________________________
+
+[1] Daftar Menu
+[2] CheckOut
+[3] Kartu Member
+[Q] Keluar
+
+_________________________
+
+'Berdiri Sejak Didirikan'
+
