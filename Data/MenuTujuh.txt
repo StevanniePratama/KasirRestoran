@@ -1,0 +1,14 @@
+- Snack -
+________________________________________
+
+[1] Kentang Goreng	Rp15.900
+[2] Chicken Nugget	Rp14.200
+[3] Garlic Ring	Rp12.000
+[4] CornDog	Rp12.000
+[5] Ice Cream Cake	Rp12.400
+[6] MkFluffy	Rp10.000
+[7] OrangePie	Rp9.500
+
+________________________________________
+
+<<< Kembali

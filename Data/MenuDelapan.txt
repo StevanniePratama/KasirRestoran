@@ -1,0 +1,25 @@
+- Minuman -
+________________________________________
+
+[1] CoLaKoKa	
+    Regular	Rp9.000
+    Large	Rp12.000
+[2] Spirit	
+    Regular	Rp9.000
+    Large	Rp12.000
+[3] MilkShock
+    Stawberry	Rp12.000
+    Chocolate	Rp12.000
+    Vanilla	Rp12.000
+    Goriorio	Rp13.000
+[4] Tea
+    Iced Tea	Rp10.000
+    Hot Tea	Rp10.000
+[5] Coffee
+    Iced Coffee	Rp10.000
+    Hot Coffee	Rp10.000
+[6] Air Mineral	Rp6.000
+
+________________________________________
+
+<<< Kembali

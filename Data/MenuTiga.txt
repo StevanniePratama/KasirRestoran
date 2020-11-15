@@ -1,0 +1,22 @@
+- Burger -
+________________________________________
+
+[1] Beef Burger	
+    Medium	Rp15.000
+    Large	Rp18.000
+[2] Chicken Burger	
+    Medium	Rp15.000
+    Large	Rp19.000
+[3] Cheese Burger	
+    Medium	Rp17.000
+    Large	Rp20.000
+[4] Fish Burger	
+    Medium	Rp12.000
+    Large	Rp15.000
+[5] DoubleCheese Burger	
+    Medium	Rp20.000
+    Large	Rp22.000
+
+________________________________________
+
+<<< Kembali

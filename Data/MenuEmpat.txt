@@ -1,0 +1,11 @@
+- AYAM -
+________________________________________
+
+[1] Fried Chicken	Rp15.000
+[2] Ayam Smackdown	Rp15.500
+[3] Ayam Terbang	Rp14.800
+[4] Ayam Split	Rp14.700
+
+________________________________________
+
+<<< Kembali

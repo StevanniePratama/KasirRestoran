@@ -1,0 +1,14 @@
+- NASI -
+________________________________________
+
+[1] Nasi Putih	Rp5.000
+[2] Nasi Goreng
+    Nasi Goreng Regular	Rp14.000
+    Nasi Goreng Seafood Rp18.000
+    Nasi Goreng Spesial	Rp20.000
+[3] Nasi Uduk	Rp8.000
+[4] Nasi Kuning	Rp8.000
+
+________________________________________
+
+<<< Kembali
