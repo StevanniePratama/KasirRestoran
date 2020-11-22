@@ -391,33 +391,28 @@ def check_menu(pilihan):
 	else :
 		check_main()
 
-#def bayar():
-	#os.system("cls")
-	#satu = TotalHarga[0] 
-	#dua = TotalHarga[1]
-	#tiga = TotalHarga[2]
-	#empat = TotalHarga[3]
-	#lima = TotalHarga[4]
-	#total = satu + dua + tiga + empat + lima 
-	#user_input = input("Apakah Anda memiliki Kartu Member? ")
-	#if user_input == "y" :
-		#total1 = total - (10/100)
-		#print(f"Total :		Rp{total1}")
-	#elif user_input == "n" :
-	#print(f"Total Pembayaran :		Rp{total}")
-
 def bayar():
+	os.system("cls")
 	satu = TotalHarga[0] 
 	dua = TotalHarga[1]
 	tiga = TotalHarga[2]
-	total = satu + dua + tiga
-	print(f"Total Pembayaran : Rp{total}")
+	empat = TotalHarga[3]
+	lima = TotalHarga[4]
+	total = satu + dua + tiga + empat + lima 
+	user_input = input("Apakah Anda memiliki Kartu Member? ")
+	if user_input == "y" :
+		total1 = total - (10/100)
+		print(f"Total :		Rp{total1}")
+	elif user_input == "n" :
+		print(f"Total Pembayaran :		Rp{total}")
+
 
 def check_main(pilihan):
 	if pilihan == "1" :
 		running.pilihMenu()
 	elif pilihan == "2" :
 		bayar()
+		view.print_data()
 	elif pilihan == "3" :
 		running.KartuMember()
 	elif pilihan == "Q" :
