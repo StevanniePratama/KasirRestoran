@@ -1,3 +1,6 @@
+import system
+from json import dump
+
 path01 = "data/MenuSatu.txt"
 path02 = "data/MenuDua.txt"
 path03 = "data/MenuTiga.txt"
@@ -11,7 +14,10 @@ path09 = "data/MenuSembilan.txt"
 path10 = "main/main_menu.txt"
 path11 = "main/daftar_menu.txt"
 
+path12 = "main/listpesanan.json"
+
 mode = "r"
+mode2 = "w"
 
 def load_Main_Menu():
 	with open(path10, mode) as file :
@@ -67,3 +73,14 @@ def load_MenuSembilan():
 	with open(path09, mode) as file :
 		data = file.read()
 	return data
+
+def load_List():
+	with open(path12, mode) as file :
+		data = file.read()
+	return data
+
+path13 = load_List()
+
+def load_saveList():
+	with open(path12, mode2) as file :
+		dump(path12, file)
